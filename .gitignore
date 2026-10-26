@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/supply_chain.db
+data/sales_data.csv
+data/sales_data_prepared.csv
